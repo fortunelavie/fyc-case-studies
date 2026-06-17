@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://fortunelavie.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /fyc-case-studies 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/fortunelavie/fyc-case-studies 
 
 ##########
 # SITE SETTINGS
@@ -20,10 +20,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: FYC Case Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Teaching Case Scenarios
+tagline:  Classroom Case Scenarios
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This site features a collection of classroom case studies scenarios designed for new  Teaching Assistants and  Instructors in first-year composition courses. The cases are curated from real life class situations, featuring diverse teaching scenarios one may encounter and ways it had been resolved in specific situations. Each entry includes a description of the situation, the context, and the resolution, as well as links to related resources."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: fyc; cases; scenarios; teaching; composition; writing; pedagogy; case studies
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
