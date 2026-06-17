@@ -40,6 +40,6 @@ It is **very important** to be there.
 
 This is a random paragraph.
 
-{% include feature/image.html objectid="ta_case_01_plagiarism"}
+{% include feature/image.html objectid="ta_case_01_plagiarism" %}
 
 
