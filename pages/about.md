@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: false
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: ta_case_06_tech_disruption
+about-featured-image: ta_case_09_plagiarism
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -23,24 +23,15 @@ padding: 6em
 This project reimagines how reflective practice is built into TA training. 
 It uses **realistic case studies** based on situations that new TAs in first-year writing courses (ENG 101 and 102) are likely to face in the classroom. 
 
+
 The goal is to help TAs develop practical decision-making skills, confidence, and reflective habits by working through authentic scenarios rather than only reflecting on their own teaching in isolation.
 
+{% include feature/image.html objectid="ta_case_12_authority-challenge;ta_case_11_peer_review;ta_case_02_absences" %}
 
-New Paragraph
-This is separate 
+## How to Navigate this page
 
--cats
--dogs
--all of us
-
-It is **very important** to be there.
-
-
-
-
-## Learn More
-
-This is a random paragraph.
+Watch the video below to learn how to use this page.
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=dCBy9z3f9Mw&t=23s" %}
 
 {% include feature/image.html objectid="ta_case_01_plagiarism" %}
 
