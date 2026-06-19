@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: false
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: ta_case_06_tech_disruption 
+about-featured-image: ta_case_06_tech_disruption
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -18,10 +18,12 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# Header One
+# What This Collection Is About
 
-Paragraph. this is a sentence in a paragraph
-Starting a new line
+This project reimagines how reflective practice is built into TA training. 
+It uses **realistic case studies** based on situations that new TAs in first-year writing courses (ENG 101 and 102) are likely to face in the classroom. 
+
+The goal is to help TAs develop practical decision-making skills, confidence, and reflective habits by working through authentic scenarios rather than only reflecting on their own teaching in isolation.
 
 
 New Paragraph
